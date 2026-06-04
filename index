@@ -320,14 +320,14 @@
 
         <aside class="attachment-card">
           <div class="attachment-title">
-            <span>Ekli fotoğraf</span>
+            <span>Ekli fotoğraflar</span>
             <span>📎</span>
           </div>
 
-          <img src="Olivia.png" alt="Olivia'nın Avrupa turu fotoğrafları">
+          <img src="Olivia.png" alt="Geziden birkaç kare">
 
           <div class="caption">
-            Olivia’nın Avrupa turundan kareler: Viyana, Prag ve Berlin.
+            Geziden birkaç kare.
           </div>
         </aside>
 
@@ -378,7 +378,7 @@
             </span>
           </span>
 
-          Şehir çok büyüktü ve her yerde tarihi
+          Şehir çok büyüktü ve her yerde tarihî
 
           <span class="select-box" style="--w:104px;" data-answer="binalar">
             <button class="blank">---</button>
@@ -446,7 +446,7 @@
             </span>
           </span>
 
-          küçük ve çok şirin bir restorana gittik. Restoranın yaptığı yerel
+          küçük ve çok şirin bir restorana gittik. Restorandaki yerel
           yemekler gerçekten çok lezzetliydi. Yemekten sonra onunla uzun bir
 
           <span class="select-box" style="--w:136px;" data-answer="sohbet ettik.">
@@ -472,7 +472,7 @@
             </span>
           </span>
 
-          dışarı çıktım. Senin bana daha önce mutlaka gitmelisin diye tavsiye
+          dışarı çıktım. Senin bana daha önce mutlaka gitmen lazım diye tavsiye
 
           <span class="select-box" style="--w:112px;" data-answer="ettiğin">
             <button class="blank">---</button>
@@ -500,7 +500,7 @@
         </p>
 
         <p>
-          Genel olarak bu tatil hayatımın en güzel anılarından biri oldu.
+          Genel olarak bu tatil hayatımın en güzel tatillerinden biri oldu.
           Farklı kültürler
 
           <span class="select-box" style="--w:112px;" data-answer="tanımak">
